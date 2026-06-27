@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+Neuqua Valley High School, Double Major in Computer Science and Finance 
 
 5. Add, commit, and push your changes: \
 git add README.md \
